@@ -12,7 +12,7 @@ Want to add a question? Please **submit an issue**.
 
 ### Who are you?
 
-Hi, I'm Johannes. You can find everything you need to know about me here: [johannes.ist](https://johannes.ist)
+Hi, I'm Johannes. You can find Impress and some art projects here: [johannes.ist](https://johannes.ist)
 
 ### Where are you from?
 
@@ -41,9 +41,9 @@ Well, if it makes you feel better, you can just treat it as sarcasm or satire.
 * **Terminal:** The basic macOS Terminal.app
 * **Quick Edits:** Very rarely nano or vim
 * **Streaming:** [mimoLive](https://mimolive.com/?ref=JoPhi)
-* **Hardware:** (Switcher, Camera, Mic, Capture/Playout-Devices coming soon)
+* **Hardware:** (macStudio M2, macBookPro M1max, Blackmagic Design: PocketCinemaCamera 4K, UltraStudio Recorder 3G, UltraStudio Monitor 3G)
 
-### PHP in _____ (please insert current year)? Really?
+### PHP in 20__ (please insert current year)? Really?
 
 It was never "the right time" to use PHP. So let’s just make it the year of PHP!
 
